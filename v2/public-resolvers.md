@@ -228,6 +228,12 @@ Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, en
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjVlNzc6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tDS9hZHVsdC1maWx0ZXI
 
+## alekberg-dns-doh
+
+Dns-over-HTTPS protocol . Non-logging, supports DNSSEC. Hosted in Scaleway Amsterdam
+
+sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwEv
+
 
 ## doh.appliedprivacy.net
 
