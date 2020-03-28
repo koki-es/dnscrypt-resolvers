@@ -225,6 +225,13 @@ IPv6 only. Running on an instance donated by https://scaleway.com
 sdns://gR5bMjAwMTpiYzg6NDcwMDoyNTAwOjoxMzdkXTo0NDM
 
 
+## anon-sth-se
+
+Anonymized DNS relay hosted in Sweden.
+
+sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
+
+
 ## anon-skyfighter
 
 Anonymized DNS relay hosted in Netherlands (https://scaleway.com) and maintained by @tuttimann.
